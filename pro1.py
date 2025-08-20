@@ -11,7 +11,6 @@ import warnings
 warnings.filterwarnings('ignore', category=UserWarning)
 plt.rcParams['font.family'] = 'Malgun Gothic'
 plt.rcParams['axes.unicode_minus'] = False
-%pip install pandas-summary
 
 # 파일들이 있는 폴더 경로
 folder_path = 'C:/Users/mumu1/Desktop/project_movie_data/project_dataset'
